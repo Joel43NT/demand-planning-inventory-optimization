@@ -8,7 +8,9 @@ Moving beyond basic diagnostic dashboards, this project implements a **predictiv
 ## 📈 Visual Diagnostics: Seasonality and "Moment 0"
 This graphic shows the synchronized drop in demand in October and the critical rebound toward december:
 
-![Evolución y Estacionalidad de la Demanda](images/estacionalidad_demanda.png)
+<p align="center">
+  <img src="images/estacionalidad_demanda.png" width="750" alt="Evolución y Estacionalidad de la Demanda">
+</p>
 
 ---
 
